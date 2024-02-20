@@ -1,4 +1,5 @@
 //jshint esversion:6
+//This is week7 class assignment: learning how to fork and commit//
 // Comment in the next line to disable the warning about the global variable being used
 // create an express object from the express package
 const express = require("express");
